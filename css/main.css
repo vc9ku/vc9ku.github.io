@@ -11,3 +11,8 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+h1 {
+    color: white;
+    font-family: 'Roboto', sans-serif;
+}
