@@ -9,11 +9,3 @@ body {
     background-color: rgb(42, 42, 42);
 }
 
-h1 {
-    color: white;
-    font-family: 'Roboto', sans-serif;
-}
-
-.header {
-    justify-content: center;
-}
